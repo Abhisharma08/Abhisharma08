@@ -1,4 +1,4 @@
-(https://user-images.githubusercontent.com/53307443/123813124-45494300-d912-11eb-80e2-f07d8339ac9c.png)
+[banner (1)](https://user-images.githubusercontent.com/53307443/123813124-45494300-d912-11eb-80e2-f07d8339ac9c.png)
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Abhimanyu Sharma!</h1>
 
@@ -8,15 +8,15 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/abhi-sharma08/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://tech-geeks.tech)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://tech-geeks.tech/)
 <!-- <img alt="followers" src="https://img.shields.io/github/followers/kartikthakurth40?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/> -->
-  
+
 </div> 
 <br/>
 
 ## 🧐 About Me
 - 🌱 &nbsp;  I’m currently learning React (Web Development) 
-- 💻 &nbsp;  Most of my projects are available on [My Portfolio](https://tech-geeks.tech/) 
+- 💻 &nbsp;  Most of my projects are available on [My Portfolio](https://tech-geeks.tech) 
 - 💬 &nbsp;  Want to work on project, feel free to contact me, I am happy to help.
 - ⛩️ &nbsp;  I love watching anime and a big fan of Japanese culture.
 - ⚡ &nbsp;  Fun fact: The first computer bug was an actual bug 🐛. A moth, to be precise.
@@ -60,10 +60,3 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=kartikth40&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 
 ..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Abhisharma08/Abhisharma08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
