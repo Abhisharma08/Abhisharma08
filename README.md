@@ -1,4 +1,4 @@
-[banner (1)](https://user-images.githubusercontent.com/53307443/123813124-45494300-d912-11eb-80e2-f07d8339ac9c.png)
+(https://user-images.githubusercontent.com/53307443/123813124-45494300-d912-11eb-80e2-f07d8339ac9c.png)
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Abhimanyu Sharma!</h1>
 
