@@ -1,17 +1,14 @@
-- 👋 Hi, I’m @Abhisharma08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning .![banner (1)](https://user-images.githubusercontent.com/53307443/123813124-45494300-d912-11eb-80e2-f07d8339ac9c.png)
+[banner (1)](https://user-images.githubusercontent.com/53307443/123813124-45494300-d912-11eb-80e2-f07d8339ac9c.png)
 
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kartik Thakur!</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Abhimanyu Sharma!</h1>
 
 <h4 align="center">I am an undergraduate student 📚 with a passion for web development ❤️. I love exploring new tech 💻 and use them to build cool projects 🛠️.</h4>
 <br/>
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kartikth40/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://kartikthakur.tech/)
-[<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">](https://www.havesmallbites.me/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/abhi-sharma08/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://tech-geeks.tech)
 <!-- <img alt="followers" src="https://img.shields.io/github/followers/kartikthakurth40?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/> -->
   
 </div> 
@@ -19,7 +16,7 @@
 
 ## 🧐 About Me
 - 🌱 &nbsp;  I’m currently learning React (Web Development) 
-- 💻 &nbsp;  Most of my projects are available on [Github](https://github.com/kartikth40?tab=repositories) 
+- 💻 &nbsp;  Most of my projects are available on [My Portfolio](https://tech-geeks.tech/) 
 - 💬 &nbsp;  Want to work on project, feel free to contact me, I am happy to help.
 - ⛩️ &nbsp;  I love watching anime and a big fan of Japanese culture.
 - ⚡ &nbsp;  Fun fact: The first computer bug was an actual bug 🐛. A moth, to be precise.
