@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js, C#**
 
-- 👨‍💻 All of my projects are available at [www.tech-geeks.tech](www.tech-geeks.tech)
+- 👨‍💻 All of my projects are available at [https://abhimanyusharma.netlify.app/](https://abhimanyusharma.netlify.app/)
 
 - 💬 Ask me about **JavaScript, C#, Python, C/C++, Java**
 
