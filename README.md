@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisharma08" alt="abhisharma08" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, C#**
+- 🌱 I’m a **I'm a Full-Stack Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://abhimanyusharma.netlify.app/](https://abhimanyusharma.netlify.app/)
 
-- 💬 Ask me about **JavaScript, C#, Python, C/C++, Java**
+- 💬 Ask me about **Node.js, React.js, JavaScript, C#, Python, C/C++, Java**
 
 - 📫 How to reach me **aksharma223@gmail.com**
 
