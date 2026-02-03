@@ -6,8 +6,6 @@
 
 - 🌱 I’m a **I'm a Full-Stack Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://abhimanyusharma.netlify.app/](https://abhimanyusharma.netlify.app/)
-
 - 💬 Ask me about **Node.js, React.js, JavaScript, C#, Python, C/C++, Java**
 
 - 📫 How to reach me **aksharma223@gmail.com**
